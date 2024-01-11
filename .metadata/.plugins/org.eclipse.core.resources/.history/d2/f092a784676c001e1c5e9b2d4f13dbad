@@ -1,0 +1,2 @@
+spring.application.name=outil-service
+spring.config.import=Config_server:http://localhost:8888
